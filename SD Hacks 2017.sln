@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SD Hacks 2017", "SD Hacks 2017.csproj", "{4E957504-0ACD-AEB3-4B7C-A7236B43FFDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SD Hacks 2017.Editor", "SD Hacks 2017.Editor.csproj", "{C17649C8-4C11-9C24-2F4E-6FEA1D6EFBAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E957504-0ACD-AEB3-4B7C-A7236B43FFDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E957504-0ACD-AEB3-4B7C-A7236B43FFDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E957504-0ACD-AEB3-4B7C-A7236B43FFDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E957504-0ACD-AEB3-4B7C-A7236B43FFDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C17649C8-4C11-9C24-2F4E-6FEA1D6EFBAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C17649C8-4C11-9C24-2F4E-6FEA1D6EFBAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C17649C8-4C11-9C24-2F4E-6FEA1D6EFBAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C17649C8-4C11-9C24-2F4E-6FEA1D6EFBAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

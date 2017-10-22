@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: f97cc200a7417b2449aa5192b8567c59
+timeCreated: 1508613311
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Button
+    100004: ButtonBase
+    100006: Extinguisher
+    100008: FloorPanel
+    100010: LeverArm
+    100012: LeverBase
+    100014: Ship
+    100016: Slider3Base
+    100018: Slider5Base
+    100020: SliderKnob
+    100022: UnderPanel
+    400000: //RootNode
+    400002: Button
+    400004: ButtonBase
+    400006: Extinguisher
+    400008: FloorPanel
+    400010: LeverArm
+    400012: LeverBase
+    400014: Ship
+    400016: Slider3Base
+    400018: Slider5Base
+    400020: SliderKnob
+    400022: UnderPanel
+    2300000: //RootNode
+    2300002: Button
+    2300004: ButtonBase
+    2300006: Extinguisher
+    2300008: FloorPanel
+    2300010: LeverArm
+    2300012: LeverBase
+    2300014: Ship
+    2300016: Slider3Base
+    2300018: Slider5Base
+    2300020: SliderKnob
+    2300022: UnderPanel
+    3300000: //RootNode
+    3300002: Button
+    3300004: ButtonBase
+    3300006: Extinguisher
+    3300008: FloorPanel
+    3300010: LeverArm
+    3300012: LeverBase
+    3300014: Ship
+    3300016: Slider3Base
+    3300018: Slider5Base
+    3300020: SliderKnob
+    3300022: UnderPanel
+    4300000: Plane
+    4300002: Extinguisher
+    4300004: UnderPanel
+    4300006: LeverArm
+    4300008: LeverBase
+    4300010: Slider3Base
+    4300012: SliderKnob
+    4300014: Slider5Base
+    4300016: ButtonBase
+    4300018: Button
+    4300020: FloorPanel
+    4300022: Ship
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Button.001
+    second: {fileID: 2100000, guid: 5c83ff66e7627e44cbdd26f87d2ca3c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ButtonBase
+    second: {fileID: 2100000, guid: e8e076cdeb08d2547a0bd40c4c90227f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door
+    second: {fileID: 2100000, guid: 877bf5d62e9c100419876ac09d791a6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: 23868b7399a77ad47bf60c2eee530771, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal
+    second: {fileID: 2100000, guid: 58b254c5be3b2f749a88d5a1668be3ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Panel
+    second: {fileID: 2100000, guid: f6215743f7a72454282a03815e66857d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pipe
+    second: {fileID: 2100000, guid: a84edd03196e7c046a1e09141edecee0, type: 2}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.012
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
